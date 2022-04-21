@@ -1,3 +1,8 @@
+/*
+The skill list below is just an example. In reality the it should grab all the skills from the DB.
+The job description text is also just an example. In reality it should grab the text from the job dialog window.
+*/
+
 let skills = ['Abgeschlossene Berufsausbildung',
  'Bachelor',
  'ETH',
@@ -594,3 +599,7 @@ let duplicates = textFormatted.filter(function(val) {
 });
 
 console.log(duplicates);
+
+/*
+The part of the code which sets the duplicates into a new array of skills belonging to this specific job is not in here because I wasn't sure how to write it.
+*/
