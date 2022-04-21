@@ -1,5 +1,5 @@
 /*
-The skill list below is just an example. In reality the it should grab all the skills from the DB.
+The skill list below is just an example. In reality it should grab all the skills from the DB table which stores our skills.
 The job description text is also just an example. In reality it should grab the text from the job dialog window.
 */
 
